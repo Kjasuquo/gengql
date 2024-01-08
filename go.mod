@@ -1,6 +1,6 @@
 module github.com/kjasuquo/gengql
 
-go 1.21.1
+go 1.18
 
 require (
 	github.com/99designs/gqlgen v0.17.42
